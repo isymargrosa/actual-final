@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Gelasio&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Text&display=swap');
+
+.hero{
+	width: 100vw;
+    height: 100vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    text-align: center;
+    
+    background-image: url(https://wallpaperplay.com/walls/full/3/d/9/242537.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.titlearticle{
+	text-align: center;
+	font-size: 60px;
+	margin-top: 50px;
+	margin-bottom: 5px;
+	font-family: 'Bungee Shade', cursive;
+	color: #ff9dd2;
+
+
+}
+
+.headings{
+	font-size: 35px;
+	font-family: 'Fjalla One', sans-serif;
+	color: #620035;
+;
+
+}
+
+
+#h1{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 150px;
+	margin-bottom: 0px;
+	margin-top: 20px;
+
+}
+
+
+#h3{
+	font-size:75px;
+	font-family: 'Bebas Neue', cursive;
+	margin-top:2px;
+	padding: 0px;
+	color: #b2497d;
+
+
+}
+
+#bernie{
+	font-size: 30px;
+	margin-top: 100px;
+	font-family: 'Gelasio', serif;
+}
+
+#cut{
+	font-size: 25px;
+	margin-top: 50px;
+	font-family: 'Gelasio', serif;
+}
+
+#center{
+	padding-top: 175px;
+	font-size:30px;
+	font-family: 'Gelasio', serif;
+}
+
+#clear{
+	clear:both;
+}
+
+
+
+
+#shout{
+	height: 600px;
+	width: 575px;
+	padding:5px;
+
+}
+
+#tyler{
+	height: 700px;
+	width: 575px;
+
+}
+
+#cool{
+	height:600px;
+	width:610px;
+}
+
+h2{
+	font-size: 25px;
+	margin-bottom: 5px;
+	text-align:center;
+	font-family: 'Big Shoulders Text', cursive;
+	color: #4f002b;
+
+}
+
+a:link {
+	color: #3895D3;
+}
+
+a:hover {
+	color: #967bb6;
+	
+}
+
+a:visited {
+	color: #072F5F;
+}
+
+#editors{
+	font-size: 20px;
+	margin-top: 100px;
+	margin-bottom: 10px;
+	font-family: 'Big Shoulders Text', cursive;
+	text-align:center ;
+	
+}
+
+#editorsnote{
+	font-family: 'Bungee Inline', cursive;
+	font-size: 40px;
+	color: #c5006a;
+
+
+}
